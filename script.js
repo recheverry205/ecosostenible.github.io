@@ -1,4 +1,2 @@
 
-document.addEventListener("DOMContentLoaded", () => {
-  console.log("Página de economía circular cargada correctamente.");
-});
+// Puedes agregar interactividad aquí
